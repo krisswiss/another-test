@@ -1,7 +1,7 @@
-# Code Institute
-
-Welcome krisswiss,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+<h1>Read me</h1>
+<hr>
+<p>Some text</p>
+<br>
+<h3>h3 heading</h3>
+<br>
+<h2>h2</h2>
